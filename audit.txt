@@ -1,0 +1,499 @@
+[90m                                                                                [39m
+[90m [39m                      === npm audit security report ===                       [90m [39m
+[90m                                                                                [39m
+[90m                                                                                [39m
+[90m [39m                                Manual Review                                 [90m [39m
+[90m [39m            Some vulnerabilities require your attention to resolve            [90m [39m
+[90m [39m                                                                              [90m [39m
+[90m [39m         Visit https://go.npm.me/audit-guide for additional guidance          [90m [39m
+[90m                                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m autoprefixer > postcss                                       [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m css-blank-pseudo > postcss                                   [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m css-has-pseudo > postcss                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m css-prefers-color-scheme > postcss                           [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env > postcss [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-attribute-case-insensitive > postcss                 [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-color-functional-notation > postcss                  [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-color-gray > postcss                                 [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-color-hex-alpha > postcss                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-color-mod-function > postcss                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-color-rebeccapurple > postcss                        [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-custom-media > postcss                               [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-custom-properties > postcss                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-custom-selectors > postcss                           [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-dir-pseudo-class > postcss                           [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-double-position-gradients > postcss                  [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-env-function > postcss                               [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-focus-visible > postcss                              [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-focus-within > postcss                               [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-font-variant > postcss                               [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-gap-properties > postcss                             [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-image-set-function > postcss                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-initial > postcss                                    [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-lab-function > postcss                               [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-logical > postcss                                    [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-media-minmax > postcss                               [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-nesting > postcss                                    [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-overflow-shorthand > postcss                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-page-break > postcss                                 [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-place > postcss                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-pseudo-class-any-link > postcss                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-replace-overflow-wrap > postcss                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-selector-matches > postcss                           [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > postcss-preset-env >         [90m [39m
+[90m [39m               [90m [39m postcss-selector-not > postcss                               [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Moderate      [90m [39m Regular Expression Denial of Service                         [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Package       [90m [39m postcss                                                      [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Patched in    [90m [39m >=8.2.10                                                     [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Dependency of [90m [39m @angular-devkit/build-angular [dev]                          [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m Path          [90m [39m @angular-devkit/build-angular > resolve-url-loader > postcss [90m [39m
+[90m                [39m[90m                                                                [39m
+[90m [39m More info     [90m [39m https://npmjs.com/advisories/1693                            [90m [39m
+[90m                [39m[90m                                                                [39m
+found 35 moderate severity vulnerabilities in 1622 scanned packages
+  35 vulnerabilities require manual review. See the full report for details.
